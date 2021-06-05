@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogsDemo</string>
+    <string name="dialog1">Dialog 1</string>
+    <string name="dialog2">Dialog 2</string>
+    <string name="alert_dialog_title">My alert dialog</string>
+    <string name="alert_dialog_description">My alert dialog description</string>
+    <string name="this_is_my_custom_dialog">This is my custom dialog</string>
+</resources>
